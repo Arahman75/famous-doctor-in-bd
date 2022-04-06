@@ -1,0 +1,19 @@
+.doctor-container{
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+    height: 580px;
+    width: 350px;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    background-color: aqua;
+}
+.call-btn{
+    line-height: 30px;
+    background-color: goldenrod;
+    border: 2px solid rgb(40, 38, 40);
+    border-radius: 5px;
+    width: 170px;
+    cursor: pointer;
+    font-size: 20px;
+}

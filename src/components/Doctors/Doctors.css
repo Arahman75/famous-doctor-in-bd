@@ -1,0 +1,28 @@
+.doctors-container{
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   width: 580px;
+   padding: 5px;
+   
+  
+  
+  
+}
+.cart-container{
+    display: flex;
+    float: right;
+    width: 200px;
+    margin-left: 10px;
+    border-left: 2px solid lightgray;
+}
+.search-field{
+    line-height: 80px;
+    background-color: rgba(0, 0, 0, 0.825);
+    margin-top: 0%;
+    text-align: center;
+}
+.search-field input{
+    width: 800px;
+    height: 25px;
+
+}
